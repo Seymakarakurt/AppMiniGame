@@ -8,7 +8,4 @@ MiniGame ist ein aufregendes Spiel, bei dem du verschiedene Herausforderungen me
 2. Öffne das Projekt in Android Studio.
 3. Führe die App auf einem Emulator oder einem physischen Gerät aus.
 
-Wir freuen uns über Beiträge!
-
-## Lizenz
-Dieses Projekt ist unter der MIT-Lizenz lizenziert. Weitere Informationen findest du in der LICENSE Datei.
+Entwickelt von Seyma Karakurt
